@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Logo Carousel Widget for Elementor 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-05 12:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: widgets/class-logo-carousel-widget.php:15
+msgid "Logo Carousel"
+msgstr ""
+
+#: widgets/class-logo-carousel-widget.php:24
+msgid "Logos"
+msgstr ""
+
+#: widgets/class-logo-carousel-widget.php:31
+msgid "Logo Image"
+msgstr ""
+
+#: widgets/class-logo-carousel-widget.php:37
+msgid "Brand Name (Alt text)"
+msgstr ""
+
+#: widgets/class-logo-carousel-widget.php:39
+msgid "Brand Name"
+msgstr ""
+
+#: widgets/class-logo-carousel-widget.php:44
+msgid "▶ YouTube Video URL"
+msgstr ""
+
+#: widgets/class-logo-carousel-widget.php:52
+msgid "Website Link (If no YouTube)"
+msgstr ""
