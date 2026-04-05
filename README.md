@@ -2,6 +2,8 @@
 
 A drag-and-drop supported, smooth scrolling, pure CSS marquee logo showcase plugin for WordPress, specifically built for Elementor.
 
+![Logo Carousel Demo](assets/REC-20260405144014.gif)
+
 ## Features
 - **Infinite Marquee:** Continuous CSS-based scroll effect.
 - **YouTube Support:** Logos can trigger a lightning-fast lightbox popup.
