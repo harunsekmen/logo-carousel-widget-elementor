@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Logo Carousel Widget for Elementor
- * Plugin URI:  https://example.com
+ * Plugin URI:  https://www.linkedin.com/in/harunsekmen/
  * Description: Drag-and-drop supported, smooth scrolling logo showcase widget. Fully compatible with Elementor.
  * Version:     1.0.0
  * Author:      Harun Sekmen
